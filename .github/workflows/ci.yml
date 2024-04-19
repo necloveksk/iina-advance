@@ -1,10 +1,7 @@
 name: CI
 
 on:
-  push:
-      branches: [advance-develop]
-  pull_request:
-      branches: [advance-develop]
+  workflow_dispatch:
 
 jobs:
   build:
