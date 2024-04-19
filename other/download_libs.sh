@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROJECT_NAME='iina'
+PROJECT_NAME='iina-advance'
 
 # universal | arm64 | x86_64
 ARCH="universal"
