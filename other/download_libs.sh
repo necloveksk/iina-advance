@@ -3,7 +3,7 @@
 PROJECT_NAME='iina-advance'
 
 # universal | arm64 | x86_64
-ARCH="universal"
+ARCH="x86_64"
 # github | iina (use iina to get the binary included in the latest release)
 YT_DLP_SOURCE="github"
 
