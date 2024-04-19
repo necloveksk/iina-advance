@@ -10,7 +10,7 @@ jobs:
         include:
           #- xcode: "13.4.1"
           #  deployment_target: "MACOSX_DEPLOYMENT_TARGET=10.11"
-          - xcode: "14.2"
+          - xcode: "15.3"
             deployment_target: ""
     runs-on:  macos-12
     steps:
